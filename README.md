@@ -30,7 +30,7 @@ python3 judika_tool.py
 
 ## Použití
 
-1. Zadejte URL rozhodnutí nebo číslo jednací (např. "20 Cdo 1234/2023")
+1. Zadejte URL rozhodnutí nebo číslo jednací (např. "20 Cdo 1234/2023") - testovano s url https://sbirka.nsoud.cz/sbirka/23581/
 2. Vyberte soud
 3. Zvolte výstupní složku
 4. Klikněte na "Stáhnout"
